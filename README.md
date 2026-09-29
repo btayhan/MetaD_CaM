@@ -36,9 +36,6 @@ cMD simulations of **conformers selected from MetaD free-energy minima**, includ
 Each directory contains its own detailed `README.md` describing the analyses and data therein.
 
 
-The codes were developed by **[Busra Tayhan](https://github.com/btayhan)**.
-
-
 
 ### References
 
